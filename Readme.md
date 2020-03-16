@@ -3,4 +3,5 @@ Página Responsiva
 - Computador, Tablet, Smartphone
 
 > [Publicado](https://douglasabnovato.github.io/pagina-responsiva)
+
 > @douglasabnovato
