@@ -234,4 +234,15 @@ footer{
 /**
   * Contato
   */
+  #contato{
+      flex-direction: row;
+      flex-wrap: wrap;
+      justify-content: space-around;
+      max-width: 500px;
+      margin: 0 auto;
+  }
+
+  #contato h2, #contato p {
+    width: 100%;
+  }
 }
