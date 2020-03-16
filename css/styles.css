@@ -67,3 +67,18 @@ header{
     text-align: center;
     padding: 20px;
 }
+
+header p{
+    margin-bottom: 2em;
+}
+
+/**
+  * Sobre
+  */
+#sobre{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    padding: 0;
+}
