@@ -30,6 +30,10 @@ A responsividade possibilitando adaptação para Computador, Tablet, Smartphone.
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
   <img alt="SPAEstatica" title="#SPAEstatica" src="./assets/pagina-responsiva-1.jpg" width="400px">
+  <img alt="SPAEstatica" title="#SPAEstatica" src="./assets/pagina-responsiva-2.jpg" width="400px">
+  <img alt="SPAEstatica" title="#SPAEstatica" src="./assets/pagina-responsiva-3.jpg" width="400px">
+  <img alt="SPAEstatica" title="#SPAEstatica" src="./assets/pagina-responsiva-4.jpg" width="400px">
+  <img alt="SPAEstatica" title="#SPAEstatica" src="./assets/pagina-responsiva-5.jpg" width="400px">
 </p> 
 
 ## 🛠 Tecnologias
